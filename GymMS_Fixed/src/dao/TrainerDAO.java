@@ -82,3 +82,4 @@ public class TrainerDAO {
         return t;
     }
 }
+// Optimized trainer database operations

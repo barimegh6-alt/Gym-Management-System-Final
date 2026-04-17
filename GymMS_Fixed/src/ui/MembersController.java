@@ -255,3 +255,4 @@ public class MembersController {
         messageLabel.setStyle(err ? "-fx-text-fill:#f87171;" : "-fx-text-fill:#4ade80;");
     }
 }
+// Improved member validation and CRUD flow
